@@ -163,6 +163,7 @@ jQuery(document).ready(function() {
 
 	
 	//single page localscroll and scrollspy
+
 	var navHeight = jQuery('#header').outerHeight(true) + 40;
 	jQuery('body').scrollspy({
 		target: '.mainmenu_wrap',
@@ -230,12 +231,12 @@ jQuery(window).load(function(){
 			bottom: 0
 		}
 	});
-	jQuery(affixHeader).on('affix.bs.affix', function () {
-		jQuery(affixHeader).stop().animate({opacity:0}, 10).delay(300).animate({opacity:1}, 500);
+	/*jQuery(affixHeader).on('affix.bs.affix', function () {
+		jQuery(affixHeader).stop().animate({opacity:0}, 10).delay(10).animate({opacity:1}, 500);
 	});
 	jQuery(affixHeader).on('affix-top.bs.affix', function () {
-		jQuery(affixHeader).stop().animate({opacity:0}, 10).delay(100).animate({opacity:1}, 800);
-	});
+		jQuery(affixHeader).stop().animate({opacity:0}, 10).delay(10).animate({opacity:1}, 800);
+	});*/
 	
 
 	if (jQuery().flexslider) {
