@@ -1,0 +1,85 @@
+/*-----------------------------------------------------------------------------
+
+KENBURNER RESPONSIVE BASIC STYLES OF HTML DOCUMENT
+
+Screen Stylesheet
+
+version:   	1.0
+date:      	07/27/11
+author:		themepunch
+email:     	support@themepunch.com
+website:   	http://www.themepunch.com
+-----------------------------------------------------------------------------*/
+html,body{ margin: 0px; }
+.boxedcontainer		{	max-width: 1170px; margin:auto; padding:0px 30px;}
+
+/*********************************************
+	-	SETTINGS FOR BANNER CONTAINERS	-
+**********************************************/
+
+.tp-banner-container{
+	width:100%;
+	position:relative;
+	padding:0;
+
+}
+
+.tp-banner{
+	width:100%;
+	position:relative;
+}
+
+.tp-banner-fullscreen-container {
+		width:100%;
+		position:relative;
+		padding:0;
+}
+.btn a{ 
+			font-family:'Open Sans' !important;
+			font-weight: 700; 
+			font-size:14px;  
+			text-align: center; 
+			display: inline-block;  
+			line-height: 32px; 
+			text-decoration: none; 
+			padding: 6px 49px;
+			margin: 0 13px;
+		} 
+.tp-caption .btn-white{ border: 3px solid #fff; background: #fff; color: #1cbbb4; }
+.tp-caption .btn-white:hover{ border: 3px solid #1cbbb4; background: #1cbbb4; color: #fff; }
+.tp-caption .btn-br{ border: 3px solid #1cbbb4; background: transparent; color: #fff; }
+.tp-caption .btn-br:hover{ border: 3px solid #1cbbb4; background: #1cbbb4; color: #fff; }
+.tp-banner-container .tp-bullets.simplebullets.round .bullet.selected{ 
+	background: #1cbbb4 !important; 
+}
+.tp-banner-container .tp-bullets.simplebullets.round .bullet{ background: #fff !important; 
+	width: 22px !important;
+	height: 9px !important;
+	border: 0px !important;
+	border-radius: 3px;   }
+@media (max-width: 599px) {
+	.btn a{ padding: 6px 25px; font-size: 9px; line-height: 15px; } 
+
+}	
+@font-face {
+    font-family: 'adele';
+    src: url('../fonts/adele-light-webfont-webfont.eot');
+    src: url('../fonts/adele-light-webfont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/adele-light-webfont-webfont.woff') format('woff'),
+         url('../fonts/adele-light-webfont-webfont.ttf') format('truetype'),
+         url('../fonts/adele-light-webfont-webfont.svg#adele') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/raleway-regular.eot');
+    src: url('../fonts/raleway-regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/raleway-regular.woff') format('woff'),
+         url('../fonts/raleway-regular.ttf') format('truetype'),
+         url('../fonts/raleway-regular.svg#Raleway') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

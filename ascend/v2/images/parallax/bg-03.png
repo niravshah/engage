@@ -1,0 +1,147 @@
+    <!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                        <meta name="description" content="Professional ThemeForest Theme Developers">
+<meta name="author" content="ThemeApt">
+<meta name="keywords" content="Professional, ThemeForest, creative">                    <meta property='fb:admins' content=''/>        <link rel="shortcut icon" href="../../../../../../www.themeapt.com/wp-content/themes/themeapt/img/icon.png">
+
+        <title>ThemeApt || Creative Stuffs</title>
+
+                                                                        <link rel="alternate" type="application/rss+xml" title="ThemeApt &raquo; Feed" href="../../../../../../www.themeapt.com/feed/default.htm" />
+<link rel="alternate" type="application/rss+xml" title="ThemeApt &raquo; Comments Feed" href="../../../../../../www.themeapt.com/comments/feed/default.htm" />
+<link rel='stylesheet' id='supportx-style-css'  href='../../../../../../www.themeapt.com/wp-content/themes/themeapt/style.css@ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='../../../../../../netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css@ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='../../../../../../netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css@ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pretify-css'  href='../../../../../../www.themeapt.com/wp-content/themes/themeapt/css/prettify.css@ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sx-style-css'  href='../../../../../../www.themeapt.com/wp-content/themes/themeapt/css/style.css@ver=8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sx-style-res-css'  href='../../../../../../www.themeapt.com/wp-content/themes/themeapt/css/style-responsive.css@ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.gritter.css-css'  href='../../../../../../www.themeapt.com/wp-content/themes/themeapt/css/jquery.gritter.css@ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='owlcss-css'  href='../../../../../../www.themeapt.com/wp-content/themes/themeapt/css/owl.carousel.css@ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='owlthemecss-css'  href='../../../../../../www.themeapt.com/wp-content/themes/themeapt/css/owl.theme.css@ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='../../../../../../www.themeapt.com/wp-content/themes/themeapt/css/superfish.css@ver=3.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-includes/js/jquery/jquery.js@ver=1.11.0'></script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-includes/js/jquery/jquery-migrate.min.js@ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.themeapt.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../../../../www.themeapt.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.2" />
+    </head>
+    <style type="text/css">
+                ::selection {
+            background:#7290ce;
+        }
+        ::-moz-selection {
+            background:#7290ce;
+        }
+        .social-link li a:hover,.btn-theme, .btn-knowledge, .reason-list li:hover span, .article,.btn-info:hover,.ribbon-green,.btn-info,.pagination > li > a:hover, .pagination > li > span.current, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus,.user-info,.welcome-box,a.view-all:hover,.bg-turquoise,.bg-blue,.main-menu li a,.form-signin h2.form-signin-heading,.login-social-link a.twitter,.forum-body:hover .t-info-row span,.notification-list .unread .ticket-info span,.ticket-nav-details li:hover .ticket-info span {
+            background:#7290ce;
+            border-color: #7290ce;
+        }
+        .blog h1 a:hover, .blog h1 a:focus, .auth-row a:hover, .auth-row a:hover, .f-blog-list li a:hover, .f-blog-list li a:focus, .latest-theme p a:hover, .client-feed-back h1, .reason-list li:hover, .list-heading a:hover, .knowledge-base-list .forum-body:hover a, .category-list ul li a:hover,.tq-color,.knowledge-details h3.dt-head,.knowledge-base .forum-body:hover a,.log-row ul li a:hover,a,.colored,h1.issue-heading,h1.issue-heading a,ul.about-ticket li a,.asign-ticket a,.post-user-info .desk a,.head-border,.panel-heading,.ticket-nav>li.active>a,.ticket-nav>li.active>a:hover,.ticket-nav>li.active>a:focus,.form-signin a,.theme-info h4 a:hover,.forum-head h3 a:hover,.notification-list a,.forum-list .last-post p a,.forum-body:hover .t-info-details h4,.forum-body:hover .t-info-details h4 a,.ticket-nav-details li:hover .ticket-info h4,.ticket-nav-details li:hover .ticket-info h4 a {
+            color:#7290ce;
+        }
+        .login-social-link a.twitter {
+            box-shadow:0 4px #7290ce;
+        }
+        .log-row ul li a:hover {
+            background:none;
+        }
+        .head-border {
+            border-bottom:1px solid #7290ce;
+        }
+
+        .pagination > li > a:hover, .pagination > li > span.current, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
+            border:1px solid #7290ce;
+        }
+        .search {
+            background: #7290ce url("../../../../../../www.themeapt.com/wp-content/themes/themeapt/img/search-icon.png") no-repeat 12px 13px;
+        }
+
+        .logo-container{
+            /*background:#7290ce;*/
+            margin-top:18px;
+            float: left;
+        }
+
+        .header{
+            background: #414147;
+        }
+
+        .footer{
+            background: #414147 ;
+        }
+
+        .gallery  ul li h4 a:hover {
+            color: #7290ce;
+        }
+
+
+    </style>
+
+<body class='body-404'>
+    <section id="container" >
+    <!--header start-->
+    
+    <div class="error-wrap">
+        <img src="../../../../../../www.themeapt.com/wp-content/themes/themeapt/img/404.png" alt="">
+        <h1>Page not found</h1>
+        <p>Something went wrong or that page dosen’t exist yet. <a href="../../../../../../www.themeapt.com/default.htm">Return Home</a></p>
+    </div>
+<!--footer start-->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="logo-container is5" >
+                    <img class= "" src="../../../../../../www.themeapt.com/wp-content/uploads/2014/02/logo.png" alt="">
+                </div>
+                <div class="is6">
+                                    </div>
+            </div>
+                            <div class="col-md-4">
+                    <h1>Latest Blog Posts</h1>
+                    <ul class="f-blog-list">
+                                                    <li>
+
+                                <a href="../../../../../@p=1">
+                                    Hello world!                                </a>
+
+                                <p><i class="fa fa-clock-o"></i> 25 Feb, 14</p>
+                            </li>
+                        
+                    </ul>
+
+                </div>
+                        <div class="col-md-4">
+                <h1>Social Network</h1>
+                <ul class="social-link">
+                    <li><a href='default.htm'><i class='fa fa-facebook'></i></a></li>                    <li><a href='default.htm'><i class='fa fa-github'></i></a></li>                    <li><a href='default.htm'><i class='fa fa-twitter'></i></a></li>                    <li><a href='default.htm'><i class='fa fa-pinterest'></i></a></li><li><a href='default.htm'><i class='fa fa-google-plus'></i></a></li><li><a href='default.htm'><i class='fa fa-dribbble'></i></a></li><li><a href='default.htm'><i class='fa fa-flickr'></i></a></li>                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--footer end-->
+</section>
+
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/navigation.js@ver=20120206'></script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/skip-link-focus-fix.js@ver=20130115'></script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/html5shiv.js@ver=20130115'></script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/respond.min.js@ver=20130115'></script>
+<script type='text/javascript' src='../../../../../../netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js@ver=20130115'></script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/jquery.customSelect.min.js@ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpdata = {"url":"../../../../../../www.themeapt.com/default.htm"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/common-scripts.js@ver=20131228'></script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/jquery.gritter.min.js@ver=20140101'></script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/prettify.js@ver=20130115'></script>
+<script type='text/javascript' src='../../../../../../cdnjs.cloudflare.com/ajax/libs/ckeditor/4.0.1/ckeditor.js@ver=20130115'></script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/owl.carousel.min.js@ver=20130115'></script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/hoverIntent.js@ver=20130115'></script>
+<script type='text/javascript' src='../../../../../../www.themeapt.com/wp-content/themes/themeapt/js/superfish.js@ver=20130115'></script>
+
+</body>
+</html>
